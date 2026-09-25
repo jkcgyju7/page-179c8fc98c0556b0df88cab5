@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--vpn-6f0ht54c.com/sitemap.xml
